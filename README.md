@@ -39,7 +39,7 @@
 <!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=sourabh59-coder&show_icons=true&count_private=true&theme=dark" alt="SourabhChandel" /> <br/> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderkhalide&show_icons=true&locale=en&layout=compact" alt="coderkhalide" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabh59-coder&show_icons=true&locale=en&layout=compact" alt="coderkhalide" /></p>
 
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=sourabh59-coder&theme=gotham&hide_border=true)<br/> -->
@@ -50,7 +50,7 @@
  <!--  TOP LANGUAGES STATISTICS -->
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh59-coder&theme=dark&layout=compact&align=right&width=40%)](https://github.com/ShahjalalShohag/github-readme-stats)<br/> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderkhalide&show_icons=true&locale=en" alt="coderkhalide" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabh59-coder&show_icons=true&locale=en" alt="coderkhalide" /></p>
 
 <!--  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh59-coder&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
