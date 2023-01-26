@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **BlockChain**
 
-- 💬 Ask me about **ReactJS, NodeJS, ExpressJS, Competitive Coding,...**
+- 💬 Ask me about **ReactJS, NodeJS, ExpressJS, Competitive Coding, Blockchain...**
 
 - 📫 How to reach me **sourabhchandel59@gmail.com**
 
